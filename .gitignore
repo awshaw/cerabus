@@ -1,0 +1,9 @@
+*.cfg
+*.csv
+*.log
+*.ipynb
+*.txt
+/.vscode/*
+*/__pycache__/
+__pycache__/
+/options/*
